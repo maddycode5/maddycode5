@@ -1,175 +1,234 @@
-<!-- Replace the placeholders with your actual links and details. -->
+<!--
+  GitHub Profile README
+  Repository: https://github.com/maddycode5/maddycode5
+-->
 
-<h1 align="center">Hey, I'm Madhav Kumar 👋</h1>
+<div align="center">
 
-<h3 align="center">
-  AI/ML Engineer | Generative AI | RAG Systems | Agentic AI
-</h3>
+# 👋 Hey there, I'm Madhav Kumar
 
-<p align="center">
-  Building intelligent systems that combine machine learning, LLMs, and automation to solve real-world problems.
-</p>
+### AI/ML Engineer · Generative AI · RAG Systems · Agentic AI
 
-<p align="center">
+**Building intelligent systems, exploring LLMs, and turning AI ideas into practical applications.**
+
+<p>
   <a href="https://github.com/maddycode5">
-    <img src="https://img.shields.io/badge/GitHub-maddycode5-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-maddycode5-181717?style=flat-square&logo=github" alt="GitHub"/>
   </a>
-  <img src="https://img.shields.io/badge/Focus-Generative%20AI-blueviolet?style=for-the-badge" alt="Generative AI"/>
-  <img src="https://img.shields.io/badge/Interest-Agentic%20AI-0A66C2?style=for-the-badge" alt="Agentic AI"/>
+  <img src="https://img.shields.io/badge/Focus-Generative%20AI-7B61FF?style=flat-square" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/Building-RAG%20%26%20AI%20Agents-00897B?style=flat-square" alt="RAG and AI Agents"/>
 </p>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-- 🎓 B.Tech student in Electronics and Communication Engineering at IIIT Una.
-- 🤖 Interested in Machine Learning, Deep Learning, Generative AI, and Agentic AI.
-- 🧠 Building RAG pipelines, LLM-powered applications, and intelligent automation workflows.
-- 🔍 Exploring semantic search, vector databases, retrieval optimization, and AI agents.
-- ⚙️ Working with Python, LangGraph, FAISS, Ollama, and n8n.
-- 🌱 Continuously learning and experimenting with emerging AI technologies.
-- 🤝 Open to collaborating on AI/ML projects, open-source initiatives, and research opportunities.
+I'm Madhav, an Electronics and Communication Engineering student at **IIIT Una**, passionate about building intelligent applications using Machine Learning, Large Language Models, and AI-powered automation.
+
+I enjoy understanding how AI systems work under the hood—from embeddings and vector search to retrieval pipelines, reranking, and agentic workflows.
+
+```python
+class MadhavKumar:
+    def __init__(self):
+        self.education = "B.Tech ECE @ IIIT Una"
+        self.interests = [
+            "Machine Learning",
+            "Generative AI",
+            "RAG Systems",
+            "Agentic AI",
+            "AI Automation"
+        ]
+
+        self.current_focus = [
+            "Advanced RAG",
+            "LLM Applications",
+            "AI Agents",
+            "Intelligent Automation"
+        ]
+
+    def say_hello(self):
+        return "Let's build something intelligent! 🚀"
+
+
+me = MadhavKumar()
+print(me.say_hello())
+```
+
+- 🔭 **Building:** RAG systems, NLP applications, and AI automation workflows.
+- 🧠 **Exploring:** Retrieval optimization, semantic search, embeddings, and agentic architectures.
+- ⚙️ **Working with:** Python, FAISS, BM25, Sentence Transformers, Ollama, LangGraph, and n8n.
+- 📊 **Interested in:** Applied AI, machine learning research, and production-oriented AI systems.
+- 🤝 **Open to:** AI/ML internships, research opportunities, open-source collaboration, and interesting AI projects.
+
+---
+
+## 🎯 What I Work On
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Generative AI & RAG
+
+Building retrieval-augmented systems that connect LLMs with external knowledge.
+
+- Document processing and chunking
+- Embeddings and semantic search
+- FAISS and BM25 retrieval
+- Hybrid search and reranking
+- LLM-based question answering
+
+</td>
+<td width="50%" valign="top">
+
+### 🔗 Agentic AI & Automation
+
+Exploring how AI models can work with tools and automated workflows.
+
+- Graph-based AI workflows
+- LLM-powered applications
+- Workflow orchestration with n8n
+- Website analysis and evaluation
+- Automated reporting pipelines
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Machine Learning & NLP
+
+Developing models that extract meaning from data and text.
+
+- Text preprocessing and TF-IDF
+- Feature engineering
+- Classification algorithms
+- Random Forest and XGBoost
+- Model evaluation
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Data Analytics
+
+Turning datasets into actionable insights.
+
+- Data cleaning and analysis
+- Exploratory data analysis
+- Power BI dashboards
+- Python-based visualization
+- Business-oriented reporting
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Selected Projects
+
+### 01 · RAG Implementation
+
+**Exploring retrieval engineering beyond basic vector search.**
+
+An implementation of a Retrieval-Augmented Generation pipeline combining multiple retrieval strategies and post-retrieval optimization techniques.
+
+**Highlights**
+- Parent-child document chunking and parent document retrieval.
+- FAISS vector search and BM25 keyword retrieval.
+- Multi-query expansion and HyDE.
+- Reciprocal Rank Fusion (RRF).
+- Cross-Encoder reranking and LLM-based filtering.
+- Answer generation using locally hosted LLMs.
+
+**Tech:** Python · FAISS · BM25 · Sentence Transformers · Cross-Encoders · Ollama
+
+[→ View Repository](https://github.com/maddycode5/RAG_implementation)
+
+---
+
+### 02 · Website Audit Automation
+
+**Turning website evaluation into an automated AI workflow.**
+
+A project concept for evaluating websites against standardized reference criteria, validating scores, ranking issues, and generating audit reports.
+
+**Planned workflow**
+- Read website URLs from Google Sheets.
+- Scrape website content.
+- Extract evaluation criteria from a reference document.
+- Use a local LLM to assess website alignment.
+- Validate scores and supporting evidence.
+- Rank issues and generate PDF reports.
+- Deliver reports through email and update the source sheet.
+
+**Tech:** Python · BeautifulSoup · PyMuPDF · Ollama · ReportLab · Google Sheets · SMTP
+
+*Project description reflects the intended workflow; update it as implementation progresses.*
+
+---
+
+### 03 · Duplicate Question Pair Detection
+
+**Identifying semantically equivalent questions using NLP and machine learning.**
+
+A question-pair classification project using text vectorization, handcrafted features, and supervised learning models.
+
+**Highlights**
+- TF-IDF text representation.
+- Handcrafted question-pair features.
+- Random Forest and XGBoost classifiers.
+- Model evaluation and prediction workflow.
+
+**Tech:** Python · NLP · Pandas · Scikit-learn · XGBoost
+
+[→ View Repository](https://github.com/maddycode5/Duplicate_question_pair)
+
+---
+
+### 04 · RAG Frameworks
+
+Exploring RAG approaches, retrieval strategies, and framework implementations to understand how different architectures influence retrieval quality and answer generation.
+
+[→ View Repository](https://github.com/maddycode5/RAG_Frameworks)
+
+---
+
+### 05 · LangGraph Chatbot
+
+Exploring conversational AI and graph-based orchestration for building structured LLM workflows.
+
+[→ View Repository](https://github.com/maddycode5/langgraph_chatbot)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,mysql" alt="Programming skills"/>
-</p>
+### Languages
 
-### 🧠 Machine Learning & Data Science
+<img src="https://skillicons.dev/icons?i=python,c,mysql&perline=6" alt="Programming languages"/>
 
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge" alt="XGBoost"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
-</p>
+### AI, ML & Data Science
 
-### 🤖 Generative AI & RAG
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge" alt="XGBoost"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Large%20Language%20Models-412991?style=for-the-badge" alt="LLMs"/>
-  <img src="https://img.shields.io/badge/RAG-2E8B57?style=for-the-badge" alt="RAG"/>
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" alt="FAISS"/>
-  <img src="https://img.shields.io/badge/Sentence%20Transformers-FFB000?style=for-the-badge" alt="Sentence Transformers"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
-</p>
+### Generative AI & Retrieval
 
-### 🔗 AI Agents & Automation
+<img src="https://img.shields.io/badge/LLMs-Generative%20AI-7B61FF?style=for-the-badge" alt="LLMs"/>
+<img src="https://img.shields.io/badge/FAISS-Vector%20Search-0467DF?style=for-the-badge" alt="FAISS"/>
+<img src="https://img.shields.io/badge/BM25-Hybrid%20Retrieval-00897B?style=for-the-badge" alt="BM25"/>
+<img src="https://img.shields.io/badge/Ollama-Local%20LLMs-111111?style=for-the-badge&logo=ollama" alt="Ollama"/>
 
-<p>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-</p>
+### AI Agents & Automation
 
-### 📊 Data Analytics & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 1. 🔎 RAG Implementation
-
-An end-to-end Retrieval-Augmented Generation implementation exploring advanced retrieval techniques and LLM-based question answering.
-
-**Key concepts:**
-- Document loading, parent-child chunking, and metadata management.
-- Vector search using FAISS and keyword retrieval using BM25.
-- Multi-query expansion and Hypothetical Document Embeddings (HyDE).
-- Reciprocal Rank Fusion (RRF) and Cross-Encoder reranking.
-- Parent document retrieval, embedding compression, and LLM filtering.
-- Answer generation using locally hosted language models.
-
-**Tech stack:** Python, FAISS, BM25, Sentence Transformers, Cross-Encoders, Ollama, Llama.
-
-🔗 [Explore RAG Implementation](https://github.com/maddycode5/RAG_implementation)
-
-### 2. 📚 RAG Frameworks
-
-Exploring retrieval-augmented generation architectures, techniques, and framework implementations.
-
-🔗 [Explore RAG Frameworks](https://github.com/maddycode5/RAG_Frameworks)
-
-### 3. 🧩 Duplicate Question Pair Detection
-
-An NLP-based machine learning project that predicts whether two questions are semantically equivalent.
-
-**Key concepts:**
-- Text preprocessing and TF-IDF vectorization.
-- Feature engineering for question-pair similarity.
-- Machine learning classification using Random Forest and XGBoost.
-- Model evaluation and prediction pipeline.
-
-**Tech stack:** Python, Pandas, Scikit-learn, XGBoost, NLP, TF-IDF.
-
-🔗 [Explore Duplicate Question Pair Detection](https://github.com/maddycode5/Duplicate_question_pair)
-
-### 4. 💬 LangGraph Chatbot
-
-An exploration of conversational AI and graph-based workflow orchestration.
-
-🔗 [Explore LangGraph Chatbot](https://github.com/maddycode5/langgraph_chatbot)
-
-### 5. 🎮 Gamified English Learning
-
-A Python-based learning application designed to make English practice more interactive through gamification.
-
-🔗 [Explore English Game](https://github.com/maddycode5/English_Game)
-
----
-
-## 🏆 Experience & Achievements
-
-- 🎓 Google Student Ambassador — Gemini Edition 2025.
-- 🚀 Founding Member & Marketing Intern at YesCity.
-- 📈 Contributed to growth initiatives involving social media reach, engagement, and community building.
-- 🗣️ Experience in student leadership, public speaking, and campus engagement.
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maddycode5&show_icons=true&theme=tokyonight&hide_border=true" alt="Madhav's GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maddycode5&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=maddycode5&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/maddycode5">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <!-- Replace YOUR_LINKEDIN_USERNAME with your actual LinkedIn username. -->
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <!-- Add your email address after verifying the address you want to publish. -->
-</p>
-
-<p align="center">
-  💡 Always learning, building, and exploring what's possible with AI.
-</p>
-
-<p align="center">
-  ⭐ If you find my projects interesting, consider exploring my repositories!
-</p>
+<img src="https://img.shields.io/badge/LangGraph-AI%20Workflows-1C3C3C?style=for-the-badge" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/LangChain-LLM%20Applications-1C3C3C?style=for-the-badge" alt="LangChain"/>
+<img src="https://img.shields.io
