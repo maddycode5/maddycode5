@@ -132,7 +132,19 @@ An AI-powered clothing measurement platform designed to improve garment fit matc
 
 **Technical Focus:** Measurement Validation, JavaScript, Data Processing, Rule-based Scoring and AI-powered Application Development.
 
-🔗 [**Explore My GitHub Projects**](https://github.com/maddycode5?tab=repositories)
+\<div align="center">
+
+\<a href="[https://relaxed-concha-1a5f78.netlify.app/](https://relaxed-concha-1a5f78.netlify.app/)">
+&#x20; \<img src="[https://img.shields.io/badge/Live%20Demo-FitMatch%20AI-00C7B7?style=for-the-badge](https://img.shields.io/badge/Live%20Demo-FitMatch%20AI-00C7B7?style=for-the-badge)" alt="Live Demo - FitMatch AI"/>
+\</a>
+
+\<br/>\<br/>
+
+\<a href="[https://github.com/maddycode5?tab=repositories](https://github.com/maddycode5?tab=repositories)">
+&#x20; \<img src="[https://img.shields.io/badge/GitHub-Explore_Repositories-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Explore_Repositories-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="Explore GitHub repositories"/>
+\</a>
+
+\</div>
 
 ---
 
@@ -179,6 +191,8 @@ Designed an AI-driven automation workflow that evaluates websites against predef
 
 **Tech Stack:** Python, BeautifulSoup, Ollama, PyMuPDF, ReportLab, Google Sheets API and n8n.
 
+🔗 [**Explore GitHub Repositories**](https://github.com/maddycode5?tab=repositories)
+
 ---
 
 ### 5. 🧠 Duplicate Question Pair Detection
@@ -206,7 +220,7 @@ An NLP-based machine learning project that identifies whether two questions conv
 
 \<div align="center">
 
-\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=maddycode5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=maddycode5\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)" />
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=maddycode5&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=maddycode5\&show_icons=true\&theme=tokyonight\&hide_border=true)" />
 
 \<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=maddycode5&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=maddycode5\&layout=compact\&theme=tokyonight\&hide_border=true)" />
 
@@ -229,11 +243,10 @@ An NLP-based machine learning project that identifies whether two questions conv
 ### 🥇 Achievements
 
 - 🏆 **Semi-Finalist – Flipkart GRID 8.0 (2026).**
-- 🎓 Google Student Ambassador – Gemini Edition 2025.
 
 ### 💼 Experience
 
-- **AI Automation Intern – Catalyn Edge**
+- **Website Audit Automation Intern – Catalyn Edge**
 
   - Working on AI-powered website audit automation.
   - Developing automated website scraping and evaluation workflows.
