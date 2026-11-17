@@ -132,9 +132,9 @@ An AI-powered clothing measurement platform designed to improve garment fit matc
 
 **Technical Focus:** Measurement Validation, JavaScript, Data Processing, Rule-based Scoring and AI-powered Application Development.
 
-🔗 [**Explore My GitHub Projects**](https://github.com/maddycode5?tab=repositories)
-
+🌐 Live Demo – FitMatch AI  https://relaxed-concha-1a5f78.netlify.app/
 ---
+🔗 [**View Repository**](https://github.com/maddycode5/FitMatch AI)
 
 ### 3. 🤖 AI-Powered Lead Outreach Automation
 
@@ -178,6 +178,8 @@ Designed an AI-driven automation workflow that evaluates websites against predef
 - Google Sheets Integration.
 
 **Tech Stack:** Python, BeautifulSoup, Ollama, PyMuPDF, ReportLab, Google Sheets API and n8n.
+
+🔗 [**View Repository**](https://github.com/maddycode5/AI-Powered Website Audit Automation)
 
 ---
 
