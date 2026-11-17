@@ -1,264 +1,122 @@
 <div align="center">
 
-# 👋 Hi, I'm Madhav Kumar (Maddy)
-
-### AI/ML Developer | Generative AI | RAG | Agentic AI & Automation
-
 <a href="https://readme-typing-svg.herokuapp.com">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=21&center=true&vCenter=true&width=750&height=55&duration=3500&pause=900&color=36BCF7&lines=Building+Intelligent+AI+Systems+%F0%9F%A4%96;Advanced+RAG+%26+LLM+Applications+%F0%9F%A7%A0;Agentic+AI+%26+Workflow+Automation+%E2%9A%99%EF%B8%8F;Turning+Ideas+Into+Practical+Solutions+%F0%9F%9A%80" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=750&height=70&duration=4000&lines=Hi+There!+👋;I'm+Madhav+Kumar!;AI%2FML+%26+Generative+AI+Developer;Building+Intelligent+AI+Systems+🚀" />
 </a>
 
 <br/>
 
-<a href="https://github.com/maddycode5">
-  <img src="https://komarev.com/ghpvc/?username=maddycode5&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Profile views" />
-</a>
-<a href="https://github.com/maddycode5?tab=followers">
-  <img src="https://img.shields.io/github/followers/maddycode5?label=Followers&style=flat&color=blue" alt="GitHub followers" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=maddycode5&label=Profile%20Views&color=blueviolet&style=flat" />
 
 </div>
 
+Welcome to my GitHub profile! I'm **Madhav Kumar (Maddy)**, an Electronics and Communication Engineering undergraduate at **IIIT Una**, passionate about Artificial Intelligence, Machine Learning, Generative AI and building intelligent automation systems.
+
+I enjoy developing practical AI applications, advanced RAG pipelines, LLM-powered systems and autonomous workflows that solve real-world problems.
+
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-I'm **Madhav Kumar (Maddy)**, an Electronics and Communication Engineering undergraduate at **IIIT Una**, interested in building practical solutions with **Artificial Intelligence, Machine Learning, Generative AI and intelligent automation**.
-
-I enjoy working across the AI development stack — from data processing and model development to **LLM-powered applications, advanced retrieval systems and automated workflows**.
-
-- 🎓 **Education:** B.Tech in Electronics and Communication Engineering, IIIT Una.
+- 🎓 **Education:** B.Tech in Electronics and Communication Engineering at IIIT Una.
 - 🤖 **Interests:** Machine Learning, Deep Learning, NLP and Generative AI.
-- 🔎 **Currently building:** Advanced RAG pipelines, LLM applications and AI automation workflows.
+- 🔍 **Currently Exploring:** Advanced RAG, LLM Applications, Vector Databases and Semantic Search.
 - ⚙️ **Agentic AI:** LangChain, LangGraph, CrewAI and Google ADK.
-- 📚 **Core areas:** Vector databases, embeddings, semantic search, hybrid retrieval and reranking.
-- 🚀 **Goal:** Build useful AI systems that solve real-world problems.
+- 🚀 **Building:** AI Agents, Multi-Agent Systems and Intelligent Automation Workflows.
+- 🏆 **Achievement:** Semi-Finalist – Flipkart GRID 8.0 (2026).
+- 💬 Ask me about **RAG, LLMs, AI Agents, NLP, Machine Learning and AI Automation.**
 
 ---
 
 ## 🛠️ Languages and Tools
 
-### 👨‍💻 Programming Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c" alt="Python and C" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
-
-### 🤖 Machine Learning & Data Science
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge&logoColor=white" alt="XGBoost" />
-  <img src="https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge&logoColor=white" alt="NLTK" />
-  <img src="https://img.shields.io/badge/BeautifulSoup-59666C?style=for-the-badge&logoColor=white" alt="BeautifulSoup" />
-</p>
-
-### 🧠 Generative AI, LLM & RAG
-
-<p align="left">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/CrewAI-5A3FFF?style=for-the-badge&logoColor=white" alt="CrewAI" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white" alt="FAISS" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
-  <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google ADK" />
-  <img src="https://img.shields.io/badge/Sentence_Transformers-FF6F00?style=for-the-badge&logoColor=white" alt="Sentence Transformers" />
-</p>
-
-### ⚙️ Automation, Development & Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux" alt="Docker, Git, GitHub, VS Code and Linux" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-</p>
-
----
-
-## 🌟 Featured Projects
-
-> **What I build:** Retrieval systems, LLM applications, AI-powered products and end-to-end automation workflows.
-
-### 1. 🔍 Advanced RAG Implementation
-
-**An advanced multi-PDF Retrieval-Augmented Generation system** designed to improve document retrieval and answer generation through multiple retrieval, ranking and context optimization techniques.
-
-**Key Highlights**
-- **Advanced chunking:** PDF ingestion with parent-child chunking.
-- **Hybrid retrieval:** FAISS vector search combined with BM25 sparse retrieval.
-- **Retrieval optimization:** Reciprocal Rank Fusion (RRF), multi-query expansion and Hypothetical Document Embeddings (HyDE).
-- **Reranking:** Cross-encoder reranking and parent document retrieval.
-- **Context optimization:** Embedding compression, mini-chunk splitting and LLM-based filtering.
-- **Document intelligence:** Document summarization and routing.
-
-**Tech Stack:** Python · FAISS · BM25 · Sentence Transformers · Cross-Encoder · Ollama · Llama 3
-
-<a href="https://github.com/maddycode5/RAG_implementation">
-  <img src="https://img.shields.io/badge/Explore%20Advanced%20RAG-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Advanced RAG repository" />
-</a>
-
----
-
-### 2. 👕 FitMatch AI — Intelligent Clothing Measurement & Fit Platform
-
-An AI-powered clothing measurement platform designed to improve garment fit matching through measurement validation and garment compatibility assessment.
-
-**Key Highlights**
-- **Measurement assessment:** Clothing measurement and fit evaluation.
-- **Category-specific validation:** Garment-specific and category-specific checks.
-- **Compatibility scoring:** Measurement compatibility and scoring.
-- **Dimension validation:** Structured garment dimension validation.
-- **Fit evaluation:** Fit assessment across clothing categories.
-
-**Technical Focus:** Measurement Validation · JavaScript · Data Processing · Rule-based Scoring · AI-powered Application Development
+### Programming Languages
 
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=python,c" title="Python and C" alt="Python and C" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" title="SQL" alt="SQL" />
+</div>
 
-<a href="https://relaxed-concha-1a5f78.netlify.app/">
-  <img src="https://img.shields.io/badge/🚀_TRY_LIVE_DEMO-FitMatch_AI-00C7B7?style=for-the-badge" alt="Open FitMatch AI live demo" />
-</a>
+### Machine Learning & Data Science
 
-<a href="https://github.com/maddycode5?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Browse GitHub repositories" />
-</a>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=sklearn" title="Scikit-learn" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" title="NumPy" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" title="Pandas" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" title="Matplotlib" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square&logoColor=white" title="XGBoost" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/NLTK-154F3C?style=flat-square&logoColor=white" title="NLTK" alt="NLTK" />
+  <img src="https://img.shields.io/badge/BeautifulSoup-59666C?style=flat-square&logoColor=white" title="BeautifulSoup" alt="BeautifulSoup" />
+</div>
 
+### Generative AI & LLM
+
+<div align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" title="LangChain" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white" title="LangGraph" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/CrewAI-5A3FFF?style=flat-square&logoColor=white" title="CrewAI" alt="CrewAI" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" title="Ollama" alt="Ollama" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logoColor=white" title="FAISS" alt="FAISS" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" title="Hugging Face" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" title="Google Gemini" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white" title="Google ADK" alt="Google ADK" />
+  <img src="https://img.shields.io/badge/Sentence_Transformers-FF6F00?style=flat-square&logoColor=white" title="Sentence Transformers" alt="Sentence Transformers" />
+</div>
+
+### Automation & Development Tools
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux" title="Development Tools" alt="Docker, Git, GitHub, VS Code and Linux" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" title="n8n" alt="n8n" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" title="Streamlit" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" title="Power BI" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" title="Jupyter" alt="Jupyter" />
 </div>
 
 ---
+## 🤝 Connect with Me
 
-### 3. 🤖 AI-Powered Lead Outreach Automation
+<div align="center">
 
-An **n8n-based lead generation and outreach workflow** that discovers potential business leads, extracts contact information, validates records and streamlines personalized email outreach.
-
-**Key Highlights**
-- **Lead discovery:** Automated lead discovery and web scraping.
-- **Data extraction:** Company and contact information extraction.
-- **Data quality:** Duplicate lead detection and validation.
-- **Lead management:** Google Sheets integration and centralized lead storage.
-- **Outreach automation:** Personalized email generation and Gmail outreach.
-- **Scheduling:** Automated, scheduled workflow execution.
-
-**Tech Stack:** n8n · Python · Firecrawl · Google Sheets API · Gmail API · Web Scraping · LLM-based Automation
-
-<a href="https://github.com/maddycode5/n8n-lead_outreach_agent">
-  <img src="https://img.shields.io/badge/Explore%20Lead%20Outreach%20Agent-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Lead Outreach repository" />
+<a href="https://github.com/maddycode5">
+  <img src="https://img.shields.io/badge/GitHub-maddycode5-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
----
-
-### 4. 🌐 AI-Powered Website Audit Automation
-
-An **AI-driven website evaluation workflow** that checks websites against predefined quality criteria, identifies potential issues and generates evidence-based audit reports.
-
-**Key Highlights**
-- **Automated scraping:** Extracts website content for evaluation.
-- **Reference-based evaluation:** Compares websites against predefined criteria.
-- **AI scoring:** LLM-powered website scoring.
-- **Issue detection:** Evidence-based issue identification and prioritization.
-- **Website ranking:** Ranks websites based on evaluation results.
-- **Automated reporting:** PDF report generation and email delivery.
-- **Workflow integration:** Google Sheets-based input and tracking.
-
-**Tech Stack:** Python · BeautifulSoup · Ollama · PyMuPDF · ReportLab · Google Sheets API · n8n
-
-<a href="https://github.com/maddycode5?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20Automation%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub repositories" />
+<a href="https://www.linkedin.com/in/madhav-kumar-843878325/">
+  <img src="https://img.shields.io/badge/LinkedIn-Madhav_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
----
-
-### 5. 🧠 Duplicate Question Pair Detection
-
-An NLP-based machine learning project that identifies whether two questions convey similar meanings using text preprocessing, feature engineering and classification models.
-
-**Key Highlights**
-- Text preprocessing and TF-IDF vectorization.
-- Handcrafted NLP and similarity features.
-- Random Forest and XGBoost classification.
-- Model evaluation and comparison.
-- Streamlit deployment.
-
-**Tech Stack:** Python · NLTK · Scikit-learn · TF-IDF · XGBoost · Random Forest · Streamlit
-
-<a href="https://github.com/maddycode5/Duplicate_question_pair">
-  <img src="https://img.shields.io/badge/View%20Question%20Pair%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Duplicate Question Pair repository" />
+<a href="mailto:madhav.works.05@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
----
-
-## 🏆 Achievements & Experience
-
-### 🥇 Achievement
-
-- 🏆 **Semi-Finalist — Flipkart GRID 8.0 (2026).**
-
-### 💼 Experience
-
-**AI Automation Intern — Catalyn Edge**
-- Working on AI-powered website audit automation.
-- Developing automated website scraping and evaluation workflows.
-- Implementing LLM-based scoring and evidence-driven issue detection.
-- Automating PDF report generation and email delivery.
-
-**Founding Member & Marketing Intern — YesCity**
-- Contributed to startup growth through marketing, research and automation.
-- Worked on digital marketing and audience growth strategies.
-
-**IITR Campus Ambassador — Public Relations**
-- Contributed to campus outreach and promotional activities.
-
----
+<br/><br/>
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
 <a href="https://github.com/maddycode5">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maddycode5&show_icons=true&theme=tokyonight&hide_border=true" alt="Madhav's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maddycode5&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
 </a>
+
 <a href="https://github.com/maddycode5">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maddycode5&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maddycode5&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </a>
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=maddycode5&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=maddycode5&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=maddycode5&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=maddycode5&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 
 </div>
 
-*Statistics are fetched dynamically from GitHub through third-party services and may refresh with a caching delay.*
-
 ---
 
-## 🤝 Connect with Me
-
-<div align="center">
-
-<a href="https://github.com/maddycode5">
-  <img src="https://img.shields.io/badge/GitHub-maddycode5-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-</a>
-<a href="https://www.linkedin.com/in/madhav-kumar-843878325/">
-  <img src="https://img.shields.io/badge/LinkedIn-Madhav_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
-</a>
-<a href="mailto:madhav.works.05@gmail.com">
-  <img src="https://img.shields.io/badge/Email-madhav.works.05-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email" />
-</a>
-
-<br/><br/>
-
-**Open to AI/ML Internships · GenAI Roles · AI Automation · Research · Collaborations**
+**Open to AI/ML Internships · Generative AI Roles · AI Automation · Research Opportunities · Collaborations**
 
 </div>
 
@@ -267,5 +125,7 @@ An NLP-based machine learning project that identifies whether two questions conv
 <div align="center">
 
 ### 💡 "Building intelligent systems, one experiment at a time."
+
+⭐ Feel free to explore my repositories and connect with me!
 
 </div>
